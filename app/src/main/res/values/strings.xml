@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">jleme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flag">flag</string>
+    <string name="xiaoyuhao"><![CDATA[<]]></string>
+    <string-array name="type">
+        <item>homely</item>
+        <item>Hot pot</item>
+        <item>Snacks</item>
+        <item>Drinkers</item>
+    </string-array>
+</resources>

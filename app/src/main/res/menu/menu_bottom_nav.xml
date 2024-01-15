@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_main"
+        android:icon="@drawable/icon_bottom_main"
+        android:title="List"/>
+
+    <item
+        android:id="@+id/bottom_menu"
+        android:icon="@drawable/icon_bottom_menu"
+        android:title="BOX"/>
+
+    <item
+        android:id="@+id/bottom_me"
+        android:icon="@drawable/icon_bottom_me"
+        android:title="MINE"/>
+
+</menu>
